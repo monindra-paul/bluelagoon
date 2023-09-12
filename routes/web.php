@@ -1,6 +1,8 @@
 <?php
 
+use App\Http\Controllers\Frontend\ContactController;
 use App\Http\Controllers\Frontend\HomeController;
+use App\Http\Controllers\Frontend\ServiceController;
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
@@ -21,6 +23,12 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/',[HomeController::class,'index']);
+
+
+Route::get('/services',[ServiceController::class,'service']);
+
+
+Route::get('/contact-us',[ContactController::class,'contact']);
 
 
 

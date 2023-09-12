@@ -23,7 +23,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<link rel="stylesheet" type="text/css" href="{{asset('asset/css/bootstrap.min.css')}}"><!-- BOOTSTRAP STYLE SHEET -->
-	<link rel="stylesheet" type="text/css" href="css/fontawesome/css/font-awesome.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('asset/css/fontawesome/css/font-awesome.min.css')}}">
 	<!-- FONTAWESOME STYLE SHEET -->
 	<link rel="stylesheet" type="text/css" href="{{asset('asset/css/flaticon.min.css')}}"><!-- FLATICON STYLE SHEET -->
 	<link rel="stylesheet" type="text/css" href="{{asset('asset/css/animate.min.css')}}"><!-- ANIMATE STYLE SHEET -->
@@ -69,28 +69,26 @@
 						<div class="header-nav navbar-collapse collapse ">
 							<ul class=" nav navbar-nav">
 								<li class="active">
-									<a href="javascript:;">Home<i class="fa fa-chevron-down"></i></a>									
+									<a href="javascript:;">Home </a>									
 								</li>
 
 								<li>
-									<a href="javascript:;">About<i class="fa fa-chevron-down"></i></a>
+									<a href="javascript:;">About </a>
 									
 								</li>
 
 								<li>
-									<a href="javascript:;">Services<i class="fa fa-chevron-down"></i></a>
+									<a href="javascript:;">Services </a>
 									
 								</li>
 
 								<li>
-									<a href="javascript:;">Gallery<i class="fa fa-chevron-down"></i></a>									
+									<a href="javascript:;">Gallery </a>									
 								</li>
 								
 								<li>
-									<a href="javascript:;">Contact<i class="fa fa-chevron-down"></i></a>									
-								</li>
-
-								
+									<a href="javascript:;">Contact </a>									
+								</li>								
 
 								
 							</ul>

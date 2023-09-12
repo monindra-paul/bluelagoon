@@ -1,38 +1,10 @@
 <footer class="site-footer footer-light">
 	<!-- COLL-TO ACTION START -->
-	<div class="section-full overlay-wraper site-bg-primary" style="background-image:url(images/background/bg-7.png);">
-
-		<div class="section-content ">
-			<!-- COLL-TO ACTION START -->
-			<div class="wt-subscribe-box">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-8 col-sm-8">
-							<div class="call-to-action-left p-tb20 p-r50">
-								<h4 class="text-uppercase m-b10">We are ready to build your dream tell us more
-									about your project</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra
-									mauris eget tortor.</p>
-							</div>
-						</div>
-
-						<div class="col-md-3">
-							<div class="call-to-action-right p-tb30">
-								<a href="contact-1.html" class="site-button-secondry text-uppercase radius-sm font-weight-600">
-									Contact us
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-		</div>
-	</div>
+	
 
 
 	<!-- FOOTER BLOCKES START -->
-	<div class="footer-top overlay-wraper">
+	<div class="footer-top overlay-wraper mt-5">
 		<div class="overlay-main"></div>
 		<div class="container">
 			<div class="row">
