@@ -458,7 +458,7 @@
 			<!-- TITLE END-->
 
 			<!-- PAGINATION START -->
-			<div class="filter-wrap p-a15 our-gallery  m-b30">
+			<!-- <div class="filter-wrap p-a15 our-gallery  m-b30">
 				<ul class="masonry-filter link-style  text-uppercase center-block m-t0">
 					<li class="active"><a data-filter="*" href="#">All</a></li>
 					<li><a data-filter=".cat-filter-1" href="#">Hair cut</a></li>
@@ -467,7 +467,7 @@
 					<li><a data-filter=".cat-filter-4" href="#">Massage</a></li>
 					<li><a data-filter=".cat-filter-5" href="#">Face massage</a></li>
 				</ul>
-			</div>
+			</div> -->
 			<!-- PAGINATION END -->
 
 			<div class="portfolio-wrap mfp-gallery  no-col-gap m-b30">
@@ -482,9 +482,7 @@
 
 								<div class="overlay-bx">
 									<div class="overlay-icon">
-										<a href="services-detail.html">
-											<i class="fa fa-link wt-icon-box-xs"></i>
-										</a>
+										
 										<a href="{{asset('asset/images/gallery/portrait/pic5.jpg')}}" class="mfp-link">
 											<i class="fa fa-picture-o wt-icon-box-xs"></i>
 										</a>
@@ -505,9 +503,7 @@
 
 								<div class="overlay-bx">
 									<div class="overlay-icon">
-										<a href="services-detail.html">
-											<i class="fa fa-link wt-icon-box-xs"></i>
-										</a>
+										
 										<a href="{{asset('asset/images/gallery/portrait-half/pic1.jpg')}}" class="mfp-link">
 											<i class="fa fa-picture-o wt-icon-box-xs"></i>
 										</a>
@@ -528,9 +524,7 @@
 
 								<div class="overlay-bx">
 									<div class="overlay-icon">
-										<a href="services-detail.html">
-											<i class="fa fa-link wt-icon-box-xs"></i>
-										</a>
+										
 										<a href="{{asset('asset/images/gallery/portrait/pic6.jpg')}}" class="mfp-link">
 											<i class="fa fa-picture-o wt-icon-box-xs"></i>
 										</a>
@@ -551,9 +545,7 @@
 
 								<div class="overlay-bx">
 									<div class="overlay-icon">
-										<a href="services-detail.html">
-											<i class="fa fa-link wt-icon-box-xs"></i>
-										</a>
+										
 										<a href="{{asset('asset/images/gallery/portrait-half/pic2.jpg')}}" class="mfp-link">
 											<i class="fa fa-picture-o wt-icon-box-xs"></i>
 										</a>
@@ -574,9 +566,7 @@
 
 								<div class="overlay-bx">
 									<div class="overlay-icon">
-										<a href="services-detail.html">
-											<i class="fa fa-link wt-icon-box-xs"></i>
-										</a>
+										
 										<a href="{{asset('asset/images/gallery/portrait-half/pic3.jpg')}}" class="mfp-link">
 											<i class="fa fa-picture-o wt-icon-box-xs"></i>
 										</a>
@@ -587,28 +577,7 @@
 						</div>
 					</div>
 
-					<div class="masonry-item cat-filter-1 col-lg-8 col-md-8 col-sm-8 col-xs-6">
-						<div class="wt-gallery-bx">
-							<div class="wt-thum-bx wt-img-effect wt-img-overlay7">
-
-								<a href="services-detail.html">
-									<img src="{{asset('asset/images/gallery/landscape-half/pic1.jpg')}}" alt="">
-								</a>
-
-								<div class="overlay-bx">
-									<div class="overlay-icon">
-										<a href="services-detail.html">
-											<i class="fa fa-link wt-icon-box-xs"></i>
-										</a>
-										<a href="{{asset('asset/images/gallery/landscape-half/pic1.jpg')}}" class="mfp-link">
-											<i class="fa fa-picture-o wt-icon-box-xs"></i>
-										</a>
-									</div>
-								</div>
-
-							</div>
-						</div>
-					</div>
+					
 				</div>
 			</div>
 
@@ -617,163 +586,10 @@
 	<!-- GALLERY STYLE-2 End -->
 
 	<!-- CONTACT US SECTION END  -->
-	<div class="section-full overlay-wraper bg-parallax" data-stellar-background-ratio="0.2" style="background-image:url(images/background/bg-11.jpg);">
-		<div class="overlay-main bg-white opacity-07"></div>
-		<div class="container">
-
-			<div class="row conntact-home">
-				<div class="col-lg-5 col-md-5 contact-home4-left">
-					<div class="section-content p-tb30 overlay-wraper">
-						<div class="overlay-main site-bg-primary opacity-09"></div>
-						<div class="p-a30" style="z-index:1; position:relative">
-							<h3 class="font-weight-400 text-white m-b5">Make an</h3>
-							<h2 class="text-white m-t0" style="font-family: 'Crete Round', serif;">
-								<i>Appointment</i>
-							</h2>
-							<form class="cons-contact-form2 form-transparent" method="post" action="https://thewebmax.org/spa/form-handler2.php">
-								<div class="form-group">
-									<input name="username" type="text" required class="form-control" placeholder="Neme">
-								</div>
-								<div class="form-group">
-									<input name="email" type="text" class="form-control" required placeholder="Email">
-								</div>
-								<div class="form-group">
-									<input name="phone" type="text" class="form-control" required placeholder="Phone">
-								</div>
-								<div class="form-group">
-									<textarea name="message" class="form-control" rows="4" placeholder="Message"></textarea>
-								</div>
-								<button type="submit" class="site-button-secondry radius-sm">
-									<span class="font-weight-700 inline-block text-uppercase p-lr15">Submit</span>
-								</button>
-							</form>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-7 col-md-7 contact-home4-right p-t50 p-b50">
-					<div class="section-content">
-						<div class="opening-block bdr-5 bdr-primary p-a40 text-right">
-							<a href="services-2.html" class="site-bg-primary book-now-btn p-tb5 p-lr15 text-uppercase font-16 font-weight-500">All
-								Services</a>
-							<h2 class="text-uppercase  text-secondry m-tb0">Best Services</h2>
-							<span class="font-60 font-weight-600 text-uppercase site-text-primary">Open
-								Hours</span>
-							<p>If you feel tired and stressed after a working day, we are happy to give you an
-								enjoyable and healthy solution to find your balance again.</p>
-							<div class="clearfix">
-								<ul class="list-unstyled m-b0">
-									<li>
-										<div class="clearfix"><span class="opening-date">Mon-Fri:</span><span class="opening-time">9 AM - 6 PM</span></div>
-									</li>
-									<li>
-										<div class="clearfix"><span class="opening-date">Saturday:</span> <span class="opening-time">9 AM- 6 PM</span></div>
-									</li>
-									<li>
-										<div class="clearfix"><span class="opening-date">Sunday:</span> <span class="opening-time">Closed</span></div>
-									</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-		</div>
-
-	</div>
-	<!-- CONTACT US OFFER SECTION END  -->
-
-	<!-- OUR EXPERTS SECTION START  -->
-	<div class="section-full bg-white p-t100 p-b70">
-		<div class="container">
-			<!-- TITLE START-->
-			<div class="section-head text-center">
-				<h2><span class="site-text-primary">Our</span> Experts</h2>
-				<div class="wt-separator-outer ">
-					<div class="wt-separator style-icon">
-						<i class="fa fa-leaf text-black"></i>
-						<span class="separator-left site-bg-primary"></span>
-						<span class="separator-right site-bg-primary"></span>
-					</div>
-				</div>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a
-					porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per
-					conubia nostra, per inceptos himenaeos.</p>
-			</div>
-			<!-- TITLE END-->
-			<div class="section-content wt-our-team">
-				<div class="row">
-
-					<!-- COLUMNS 1 -->
-					<div class="col-lg-4 col-md-4 m-b30">
-						<div class="wt-team-one bg-white">
-							<div class="wt-team-media">
-								<a href="our-team-detail.html"><img src="images/our-team4/ex1.jpg" class="" alt=""></a>
-							</div>
-							<div class="wt-team-info text-center bg-white p-a10">
-								<h4 class="wt-team-title"><a href="our-team-detail.html">Camila</a></h4>
-								<p>Founder, Beauty Spa</p>
-								<ul class="social-icons social-square social-dark">
-									<li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-linkedin"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-rss"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-youtube"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-instagram"></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<!-- COLUMNS 2 -->
-					<div class="col-lg-4 col-md-4 m-b30">
-						<div class="wt-team-one bg-white">
-							<div class="wt-team-media">
-								<a href="our-team-detail.html"><img src="{{asset('asset/images/our-team4/ex2.jpg')}}" class="" alt=""></a>
-							</div>
-							<div class="wt-team-info text-center bg-white p-a10">
-								<h4 class="wt-team-title"><a href="our-team-detail.html">Milagros</a></h4>
-								<p>Founder, Beauty Spa</p>
-								<ul class="social-icons social-square social-dark">
-									<li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-linkedin"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-rss"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-youtube"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-instagram"></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<!-- COLUMNS 3 -->
-					<div class="col-lg-4 col-md-4 m-b30">
-						<div class="wt-team-one bg-white">
-							<div class="wt-team-media">
-								<a href="our-team-detail.html"><img src="{{asset('asset/images/our-team4/ex3.jpg')}}" class="" alt=""></a>
-							</div>
-							<div class="wt-team-info text-center bg-white p-a10">
-								<h4 class="wt-team-title"><a href="our-team-detail.html">Agustina.</a></h4>
-								<p>Founder, Beauty Spa</p>
-								<ul class="social-icons social-square social-dark">
-									<li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-linkedin"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-rss"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-youtube"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-instagram"></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<!-- COLUMNS 4 -->
-
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- OUR EXPERTS SECTION END  -->
+	
 
 	<!-- OUR CLIENT SLIDER START -->
-	<div class="section-full p-t50 p-b10 overlay-wraper site-bg-primary bg-repeat" style="background-image:url(images/background/bg-7.png);">
+	<div class="section-full p-t50 p-b10 overlay-wraper site-bg-primary bg-repeat mb-5 pb-5" style="background-image:url({{asset('asset/images/background/bg-7.png')}});">
 		<div class="container">
 
 			<!-- IMAGE CAROUSEL START -->
@@ -796,6 +612,41 @@
 							</div>
 						</div>
 					</div>
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="javascript:;"><img src="{{asset('asset/images/client-logo/logo2.png')}}" alt=""></a>
+							</div>
+						</div>
+					</div>
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="javascript:;"><img src="{{asset('asset/images/client-logo/logo2.png')}}" alt=""></a>
+							</div>
+						</div>
+					</div>
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="javascript:;"><img src="{{asset('asset/images/client-logo/logo2.png')}}" alt=""></a>
+							</div>
+						</div>
+					</div>
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="javascript:;"><img src="{{asset('asset/images/client-logo/logo2.png')}}" alt=""></a>
+							</div>
+						</div>
+					</div>
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="javascript:;"><img src="{{asset('asset/images/client-logo/logo2.png')}}" alt=""></a>
+							</div>
+						</div>
+					</div>
 					<!-- COLUMNS 3 -->
 
 				</div>
@@ -807,6 +658,30 @@
 
 </div>
 
+
+@endsection
+
+
+
+@section('customJs')
+
+
+<!-- <script>
+		var owl = $('.client-logo-carousel');
+		owl.owlCarousel({		
+		loop:true,
+		margin:10,
+		autoplay:true,
+		autoplayTimeout:1000,
+		autoplayHoverPause:true
+		});
+		$('.play').on('click',function(){
+			owl.trigger('play.owl.autoplay',[1000])
+		})
+		$('.stop').on('click',function(){
+			owl.trigger('stop.owl.autoplay')
+		})
+</script> -->
 
 
 @endsection

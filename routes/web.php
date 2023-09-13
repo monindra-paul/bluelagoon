@@ -1,6 +1,8 @@
 <?php
 
+use App\Http\Controllers\Frontend\AboutController;
 use App\Http\Controllers\Frontend\ContactController;
+use App\Http\Controllers\Frontend\GalleryController;
 use App\Http\Controllers\Frontend\HomeController;
 use App\Http\Controllers\Frontend\ServiceController;
 use App\Http\Controllers\ProfileController;
@@ -29,6 +31,13 @@ Route::get('/services',[ServiceController::class,'service']);
 
 
 Route::get('/contact-us',[ContactController::class,'contact']);
+
+
+Route::get('/about-us',[AboutController::class,'index']);
+
+
+
+Route::get('/gallery',[GalleryController::class,'gallery']);
 
 
 

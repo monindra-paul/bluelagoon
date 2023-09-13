@@ -1,13 +1,21 @@
 @extends('frontend.layout.app')
 @section('content')
 
-
-<!-- PRICING SECTION START  -->
+<div class="wt-bnr-inr overlay-wraper" style="background-image:url({{asset('asset/images/banner/gallery-banner.jpg')}})">
+            	<div class="overlay-main bg-black opacity-07"></div>
+                <div class="container">
+                    <div class="wt-bnr-inr-entry">
+                        <h1 class="text-white">Services</h1>
+                    </div>
+                </div>
+            </div>
 <div class="section-full bg-gray p-t100 p-b70">
+	
 		<div class="container">
-			<!-- TITLE START-->
+
+		
 			<div class="section-head text-center">
-				<h1><span class="site-text-primary">Our</span> Pricing</h1>
+				<h1><span class="site-text-primary">Our</span> Services</h1>
 				<div class="wt-separator-outer">
 					<div class="wt-separator style-icon">
 						<i class="fa fa-leaf text-black"></i>

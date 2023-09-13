@@ -53,70 +53,70 @@
 	<div class="page-wraper">
 
 		<!-- HEADER START -->
+		
+
+
 		<header class="site-header header-style-3  mobile-sider-drawer-menu">
-			<!-- Search Form -->
+            <!-- Search Form -->
 
-			<div class="sticky-header main-bar-wraper">
-				<div class="main-bar site-bg-primary">
-					<div class="container">
-						<div class="logo-header">
-							<a href="index.html">
-								<img src="{{asset('asset/images/bluelagoon/bluelagoon.png')}}" width="180px" height="37" alt="">
-							</a>
-						</div>
+            <div class="sticky-header main-bar-wraper">
+                <div class="main-bar site-bg-primary">
+                    <div class="container">
+                        <div class="logo-header">
+                            <a href="{{url('/')}}">
+                                <img src="{{asset('asset/images/bluelagoon/bluelagoon.png')}}" width="180px" height="37" alt="">
+                            </a>
+                        </div>
 
-						<!-- MAIN Vav -->
-						<div class="header-nav navbar-collapse collapse ">
-							<ul class=" nav navbar-nav">
-								<li class="active">
-									<a href="javascript:;">Home </a>									
-								</li>
+                        <!-- MAIN Vav -->
+                        <div class="header-nav navbar-collapse collapse ">
+                            <ul class=" nav navbar-nav">
+                                <li class="active">
+                                    <a href="{{url('/')}}">Home </a>                                    
+                                </li>
 
-								<li>
-									<a href="javascript:;">About </a>
-									
-								</li>
+                                <li>
+                                    <a href="{{url('/about-us')}}">About </a>                                    
+                                </li>
 
-								<li>
-									<a href="javascript:;">Services </a>
-									
-								</li>
+                                <li>
+                                    <a href="{{url('/services')}}">Services </a>                                    
+                                </li>
 
-								<li>
-									<a href="javascript:;">Gallery </a>									
-								</li>
-								
-								<li>
-									<a href="javascript:;">Contact </a>									
-								</li>								
+                                <li>
+                                    <a href="{{url('/gallery')}}">Gallery </a>                                 
+                                </li>
+                                
+                                <li>
+                                    <a href="{{url('/contact-us')}}">Contact </a>                                 
+                                </li>                               
 
-								
-							</ul>
-						</div>
-						<!-- NAV Toggle Button -->
-						<button id="mobile-side-drawer" data-target=".header-nav" data-toggle="collapse" type="button" class="navbar-toggler collapsed">
-							<span class="sr-only"></span>
-							<span class="icon-bar icon-bar-first"></span>
-							<span class="icon-bar icon-bar-two"></span>
-							<span class="icon-bar icon-bar-three"></span>
-						</button>
-						<!-- ETRA Nav -->
-						
-						<!-- SITE Search -->
-						<div id="search">
-							<span class="close"></span>
-							<form role="search" id="searchform" action="https://thewebmax.org/search" method="get" class="radius-xl">
-								<div class="input-group">
-									<input value="" name="q" type="search" placeholder="Type to search">
-									<span class="input-group-btn"><button type="button" class="search-btn"><i class="fa fa-search"></i></button></span>
-								</div>
-							</form>
-						</div>
+                                
+                            </ul>
+                        </div>
+                        <!-- NAV Toggle Button -->
+                        <button id="mobile-side-drawer" data-target=".header-nav" data-toggle="collapse" type="button" class="navbar-toggler collapsed">
+                            <span class="sr-only"></span>
+                            <span class="icon-bar icon-bar-first"></span>
+                            <span class="icon-bar icon-bar-two"></span>
+                            <span class="icon-bar icon-bar-three"></span>
+                        </button>
+                        <!-- ETRA Nav -->
+                        
+                        <!-- SITE Search -->
+                        <div id="search">
+                            <span class="close"></span>
+                            <form role="search" id="searchform" action="https://thewebmax.org/search" method="get" class="radius-xl">
+                                <div class="input-group">
+                                    <input value="" name="q" type="search" placeholder="Type to search">
+                                    <span class="input-group-btn"><button type="button" class="search-btn"><i class="fa fa-search"></i></button></span>
+                                </div>
+                            </form>
+                        </div>
 
+                    </div>
+                </div>
+            </div>
 
-					</div>
-				</div>
-			</div>
-
-		</header>
-		<!-- HEADER END -->
+        </header>
+        <!-- HEADER END -->
