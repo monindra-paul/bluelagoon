@@ -87,22 +87,43 @@
 							<h2 class="text-white m-t0" style="font-family: 'Crete Round', serif;">
 								<i>Appointment</i>
 							</h2>
-							<form class="cons-contact-form2 form-transparent" method="post" action="https://thewebmax.org/spa/form-handler2.php">
-								<div class="form-group">
-									<input name="username" type="text" required class="form-control" placeholder="Neme">
+							<form class=" form-transparent" method="post" action="{{url('/contact-us')}}">
+                                @csrf
+
+                                @if ($errors->has('name'))
+								<span class="text-danger">{{ $errors->first('name') }}</span>
+								@endif
+								<div class="form-group">                                
+									<input name="name" type="text"  class="form-control" placeholder="Name" value="{{ old('name') }}">
 								</div>
-								<div class="form-group">
-									<input name="email" type="text" class="form-control" required placeholder="Email">
+
+                                @if ($errors->has('email'))
+								<span class="text-danger">{{ $errors->first('email') }}</span>
+								@endif
+								<div class="form-group">                                
+									<input name="email" type="email" class="form-control"  placeholder="Email" value="{{ old('email') }}">
 								</div>
-								<div class="form-group">
-									<input name="phone" type="text" class="form-control" required placeholder="Phone">
+
+                                @if ($errors->has('phone'))
+								<span class="text-danger">{{ $errors->first('phone') }}</span>
+								@endif
+								<div class="form-group">                               
+									<input name="phone" type="text" class="form-control"  placeholder="Phone" value="{{ old('phone') }}">
 								</div>
+
+                                @if ($errors->has('message'))
+								<span class="text-danger">{{ $errors->first('message') }}</span>
+								@endif
 								<div class="form-group">
+                               
 									<textarea name="message" class="form-control" rows="4" placeholder="Message"></textarea>
 								</div>
 								<button type="submit" class="site-button-secondry radius-sm">
-									<span class="font-weight-700 inline-block text-uppercase p-lr15">Submit</span>
+									<span class="font-weight-700 inline-block text-uppercase p-lr15">Send Us</span>
 								</button>
+                                @if(session('success'))
+								<div class="alert alert-success">{{session('success')}}</div>
+								@endif
 							</form>
 						</div>
 					</div>

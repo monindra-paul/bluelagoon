@@ -80,7 +80,7 @@
                                 </li>
 
                                 <li>
-                                    <a href="{{url('/services')}}">Services </a>                                    
+                                    <a href="{{route('services.index')}}">Services </a>                                    
                                 </li>
 
                                 <li>
