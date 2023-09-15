@@ -16298,7 +16298,7 @@ a.book-now-btn:active {
 }
 
 .header-style-3 .header-nav .nav>li>a {
-	color: #fff;
+	color: #0087D3;
 }
 
 @media only screen and (max-width:991px) {
@@ -16335,10 +16335,11 @@ a.book-now-btn:active {
 /* header 3 fixed */
 .header-style-3 .is-fixed .main-bar {
 	position: fixed;
+	background-color: #fff;
 }
 
 .header-style-3 .is-fixed.color-fill .main-bar {
-	background: rgba(0, 0, 0, .25);
+	background: #fff;
 }
 
 .header-style-3 .header-nav .nav>li .sub-menu {
