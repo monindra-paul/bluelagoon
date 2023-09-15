@@ -2,7 +2,14 @@
 @section('content')
 
 <div class="page-content">
-
+<div class="wt-bnr-inr overlay-wraper" style="background-image:url({{asset('asset/images/banner/gallery-banner.jpg')}})">
+	<div class="overlay-main bg-black opacity-07"></div>
+	<div class="container">
+		<div class="wt-bnr-inr-entry">
+			<h1 class="text-white">Contact Us</h1>
+		</div>
+	</div>
+</div>
 
 
     <!-- BREADCRUMB ROW -->
