@@ -32,7 +32,7 @@
                         <div class="row">
                             <div class="col-lg-5 col-md-8 m-b30">
                                 <div class="about-com-pic">
-                                    <img src="{{asset('asset/images/about-pic.jpg')}}" alt="" class="img-responsive">
+                                    <img src="{{asset('asset/images/bluelagoon/ceo.jpg')}}" alt="" class="img-responsive">
                                 </div>
                             </div>
                             <div class="col-lg-7 col-md-12 m-b30">
