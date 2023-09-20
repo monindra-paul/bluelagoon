@@ -41,7 +41,7 @@ Route::get('/contact-us',[ContactController::class,'contact']);
 Route::post('/contact-us',[ContactController::class,'postContact']);
 
 
-Route::get('/about-us',[AboutController::class,'index']);
+Route::get('/about-us',[AboutController::class,'index'])->name('about.index');
 
 
 

@@ -10,7 +10,7 @@
 			<ul> <!-- SLIDE  -->
 				<li data-index="rs-407" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="2000" data-thumb="{{asset('asset/images/main-slider/slider5/slide1.jpg')}}" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1000" data-fsslotamount="7" data-saveperformance="off" data-title="One" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 					<!-- MAIN IMAGE -->
-					<img src="{{asset('asset/images/main-slider/slider5/slide1.jpg')}}" alt="" data-bgposition="center center" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="6" class="rev-slidebg" data-no-retina>
+					<img src="{{asset('asset/images/bluelagoon/home-slider-2.webp')}}" alt="" data-bgposition="center center" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="6" class="rev-slidebg" data-no-retina>
 					<!-- LAYERS -->
 					<div id="rrzm_407" class="rev_row_zone rev_row_zone_middle" style="z-index: 6;">
 
@@ -40,7 +40,7 @@
 				<!-- SLIDE  -->
 				<li data-index="rs-408" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="2000" data-thumb="{{asset('asset/images/main-slider/slider5/slide2.jpg')}}" data-rotate="0" data-saveperformance="off" data-title="Two" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 					<!-- MAIN IMAGE -->
-					<img src="{{asset('asset/images/main-slider/slider5/slide2.jpg')}}" alt="" data-bgposition="center center" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="6" class="rev-slidebg" data-no-retina>
+					<img src="{{asset('asset/images/bluelagoon/home-slider-3.webp')}}" alt="" data-bgposition="center center" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="6" class="rev-slidebg" data-no-retina>
 					<!-- LAYERS -->
 					<div id="rrzm_408" class="rev_row_zone rev_row_zone_middle" style="z-index: 6;">
 
@@ -73,7 +73,7 @@
 				<!-- SLIDE  -->
 				<li data-index="rs-409" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="2000" data-thumb="{{asset('asset/images/main-slider/slider5/slide3.jpg')}}" data-rotate="0" data-saveperformance="off" data-title="Three" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 					<!-- MAIN IMAGE -->
-					<img src="{{asset('asset/images/main-slider/slider5/slide3.jpg')}}" alt="" data-bgposition="center center" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="6" class="rev-slidebg" data-no-retina>
+					<img src="{{asset('asset/images/bluelagoon/home-slider-1.webp')}}" alt="d" data-bgposition="center center" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="6" class="rev-slidebg" data-no-retina>
 					<!-- LAYERS -->
 					<div id="rrzm_409" class="rev_row_zone rev_row_zone_middle" style="z-index: 6;">
 
@@ -118,7 +118,7 @@
 					<div class="col-md-5 col-sm-5 m-b30">
 						<div class="about4-section-pic ">
 							<div class="wt-media">
-								<img src="{{asset('asset/images/slid-2.jpg')}}" alt="">
+								<img src="{{asset('asset/images/bluelagoon/home-side.webp')}}" alt="" style="border-radius: 15px">
 							</div>
 						</div>
 					</div>
@@ -129,13 +129,13 @@
 							<p><strong>Spread over two floors, our beautiful spa offer a soothing environment in which you can rest, relax and feel competely rejuvenated.</strong></p>
 							<p>The Blue lagoon is a family-owned and operated salon dedicated to making your family feel extraordinary. With 8+ years of expertise in the industry, we have become a trusted name in the community.</p>
 							<div class="text-left p-b30">
-								<img src="{{asset('asset/images/sign.png')}}" alt="">
+								<img src="{{asset('asset/images/bluelagoon/bluelagoon.png')}}" width="120px" alt="">
 							</div>
 							<div>
-								<a href="services-1.html" class="site-button radius-sm">
+								<a href="{{ url('/about-us') }}" class="site-button radius-sm">
 									<span class="font-weight-700 inline-block text-uppercase p-lr15">About Us</span>
 								</a>
-								<a href="services-detail.html" class="site-button-secondry radius-sm">
+								<a href="{{ url('/services') }}" class="site-button-secondry radius-sm">
 									<span class="font-weight-700 inline-block text-uppercase p-lr15">Services</span>
 								</a>
 							</div>
@@ -589,8 +589,8 @@
 	
 
 	<!-- OUR CLIENT SLIDER START -->
-	<div class="section-full p-t50 p-b10 overlay-wraper site-bg-primary bg-repeat mb-5 pb-5" style="background-image:url({{asset('asset/images/background/bg-7.png')}});">
-		<div class="container">
+	<div class="section-full p-t50 p-b10 overlay-wraper  bg-repeat mb-5 pb-5" >
+		{{-- <div class="container">
 
 			<!-- IMAGE CAROUSEL START -->
 			<div class="section-content">
@@ -652,7 +652,138 @@
 				</div>
 			</div>
 			<!-- IMAGE CAROUSEL START -->
+		</div> --}}
+
+
+
+		<div class="container">
+                
+			<!-- TITLE START -->
+			<div class="section-head text-center">
+				<h3 class="text-uppercase"><span style="color: #0087D3;">Product </span>Used</h3>
+				<div class="wt-separator-outer">
+					<div class="wt-separator style-icon">
+						<i class="fa fa-leaf text-black"></i>
+						<span class="separator-left site-bg-primary"></span>
+						<span class="separator-right site-bg-primary"></span>
+					</div>                            
+				</div>
+				<p>Product We Used for Our Valueable Customers.</p>
+			</div>
+			<!-- TITLE END -->
+			
+			<!-- IMAGE CAROUSEL START -->
+			<div class="section-content">
+				<div class="owl-carousel client-logo-carousel m-b30">
+				
+					<!-- COLUMNS 1 --> 
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="#"><img src="{{asset('asset/images/bluelagoon/p1.png')}}" alt=""></a>
+							</div>
+						</div>
+					</div>
+					<!-- COLUMNS 2 --> 
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="#"><img src="{{asset('asset/images/bluelagoon/p5.png')}}" alt="s"></a>
+							</div>
+						</div>
+					</div>
+					<!-- COLUMNS 3 --> 
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="#"><img src="{{asset('asset/images/bluelagoon/p6.png')}}" alt=""></a>
+							</div>
+						</div>
+					</div>
+					<!-- COLUMNS 4 --> 
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="#"><img src="{{asset('asset/images/bluelagoon/p7.png')}}" alt=""></a>
+							</div>
+						</div>
+					</div>
+					<!-- COLUMNS 5 --> 
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="#"><img src="{{asset('asset/images/bluelagoon/p4.png')}}" alt=""></a>
+							</div>
+						</div>
+					</div>
+					<!-- COLUMNS 6 --> 
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="#"><img src="{{asset('asset/images/bluelagoon/p12.png')}}" alt=""></a>
+							</div>
+						</div>
+					</div>
+					<!-- COLUMNS 7 --> 
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="#"><img src="{{asset('asset/images/bluelagoon/p10.png')}}" alt=""></a>
+							</div>
+						</div>
+					</div>
+					<!-- COLUMNS 8 --> 
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="#"><img src="{{asset('asset/images/bluelagoon/p11.png')}}" alt=""></a>
+							</div>
+						</div>
+					</div>
+					<!-- COLUMNS 9 --> 
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="#"><img src="{{asset('asset/images/bluelagoon/p6.png')}}" alt=""></a>
+							</div>
+						</div>
+					</div>
+					<!-- COLUMNS 10 --> 
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="#"><img src="{{asset('asset/images/bluelagoon/p18.png')}}" alt=""></a>
+							</div>
+						</div>
+					</div>
+					<!-- COLUMNS 11 --> 
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="#"><img src="{{asset('asset/images/bluelagoon/p15.png')}}" alt=""></a>
+							</div>
+						</div>
+					</div>
+					<!-- COLUMNS 12 --> 
+					<div class="item">
+						<div class="ow-client-logo">
+							<div class="client-logo wt-img-effect on-color">
+								<a href="#"><img src="{{asset('asset/images/bluelagoon/p3.png')}}" alt=""></a>
+							</div>
+						</div>
+					</div>                        
+				
+				</div>
+			</div>
+			<!-- IMAGE CAROUSEL START -->
 		</div>
+
+
+
+
+
+
+
 	</div>
 	<!-- OUR CLIENT SLIDER END -->
 

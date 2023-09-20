@@ -197,13 +197,11 @@
                             <div class="clearfix">
                                 <ul class="list-unstyled m-b0">
                                     <li>
-                                        <div class="clearfix"><span class="opening-date">Mon-Fri:</span><span class="opening-time">9 AM - 6 PM</span></div>
+                                        <div class="clearfix"><span class="opening-date">Mon-Sat: </span> <span class="opening-time">10 AM - 9 PM</span></div>
                                     </li>
+                                   
                                     <li>
-                                        <div class="clearfix"><span class="opening-date">Saturday:</span> <span class="opening-time">9 AM- 6 PM</span></div>
-                                    </li>
-                                    <li>
-                                        <div class="clearfix"><span class="opening-date">Sunday:</span> <span class="opening-time">Closed</span></div>
+                                        <div class="clearfix"><span class="opening-date">Sunday: </span> <span class="opening-time">10 AM - 9 PM</span></div>
                                     </li>
                                 </ul>
                             </div>

@@ -148,7 +148,7 @@
 										<div class="row">
 											<div class="col-lg-6 col-md-12">
 												<div class="wt-media">
-													<img src="{{asset('asset/images/our-services/large/s1.jpg')}}" alt="">
+													<img src="{{asset('asset/images/bluelagoon/wax-full-leg.webp')}}" alt="">
 												</div>
 											</div>
 											<div class="col-lg-6 col-md-12">
@@ -156,15 +156,7 @@
 													<h3 class="font-26 font-weight-400">Full Legs
 													</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>It's time for some self-care! Show your legs some love with a full leg wax. Feel smooth and refreshed with the ultimate pampering session. Ready for the season ahead, your legs will be looking their best!
 													</p>
 													  
 												</div>
@@ -178,22 +170,14 @@
 										<div class="row">
 											<div class="col-lg-6 col-md-12">
 												<div class="wt-media">
-													<img src="{{asset('asset/images/our-services/large/s2.jpg')}}" alt="">
+													<img src="{{asset('asset/images/bluelagoon/wax-half-leg.webp')}}" alt="">
 												</div>
 											</div>
 											<div class="col-lg-6 col-md-12">
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Half Legs  </h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>Achieve smoother, hair-free skin with waxing! Our professional waxing service for half legs is the perfect way to leave your skin feeling soft and looking flawless. Let us help you achieve the perfect results!
 													</p>
 													  
 												</div>
@@ -207,22 +191,14 @@
 										<div class="row">
 											<div class="col-lg-6 col-md-12">
 												<div class="wt-media">
-													<img src="{{asset('asset/images/our-services/large/s3.jpg')}}" alt="">
+													<img src="{{asset('asset/images/bluelagoon/wax-underarms.webp')}}" alt="">
 												</div>
 											</div>
 											<div class="col-lg-6 col-md-12">
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Underarms </h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>It's time to get smooth and silky underarms! Waxing is an effective way to get rid of unwanted hair and maintain a smooth and flawless complexion. Not only is waxing quick and easy, it also offers long-lasting results that will leave your underarms feeling soft and looking beautiful.
 													</p>
 													  
 												</div>
@@ -243,15 +219,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Full Front</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>When it comes to waxing, it's all about the details. That's why I love getting my full front waxed - it leaves me feeling smooth and polished! With the help of my esthetician, I can trust that I'm in good hands and will get the perfect wax every time.
 													</p>
 													  
 												</div>
@@ -272,15 +240,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Full Back</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>Smooth and hair-free! Professional full-back waxing! Ready to show off your beautiful, flawless skin? Let us help you achieve that goal with our specialized waxing treatment. Experience silky-smooth skin with long-lasting results. Book your appointment today and get ready to flaunt your body confidently!
 													</p>
 													  
 												</div>
@@ -302,15 +262,7 @@
 													<h3 class="font-26 font-weight-400">Full Body
 													</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>After being pampered today, I'm feeling my best! Today I indulged in full body waxing and am ready to take on anything that comes my way. Waxing is an excellent way to keep your skin smooth and free of unwanted hair, while also feeling refreshed and rejuvenated. With this new found confidence, I'm sure to take on the world!
 													</p>
 													  
 												</div>
@@ -350,15 +302,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Hair Spa </h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>Treating yourself to a luxurious hair spa experience is a must! Pamper your locks with a professional treatment that will leave your hair looking and feeling refreshed and nourished. Enjoy the lavishness of a salon-style spa experience from the comfort of your home, indulge in the bliss of a revitalizing hair spa treatment today!
 													</p>
 													  
 												</div>
@@ -379,15 +323,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Baby Cutting</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>It's time for a fresh start! Our talented team of stylists is ready to give you the perfect baby cutting to show off your beautiful hair. Our aim is to provide you with a look that will make you stand out from the crowd. With our expertise and attention to detail, the end result is sure to be stunning!
 													</p>
 													  
 												</div>
@@ -409,15 +345,7 @@
 													<h3 class="font-26 font-weight-400">Colour Touchup
 													</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>A new look, a new start! With the help of Colour Touchup, I was able to give my hair a whole new look. From lifeless and dull to vibrant and full of life, I feel like I'm ready to take on the world.
 													</p>
 													  
 												</div>
@@ -438,15 +366,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Shampoo</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>She's ready to get her hair looking extra soft and shiny!  After using this luxurious ladies shampoo, she's looking forward to achieving salon-quality results at home! With its nourishing ingredients and luxurious lather, this shampoo makes for a truly indulgent experience.
 													</p>
 													  
 												</div>
@@ -467,15 +387,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Oil Message</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>Say goodbye to dry and damaged hair! With the right oils, all hair ladies can keep their locks looking luxuriously healthy and shiny. Our special blend of oils nourishes your hair from root to tip, leaving you with luscious locks that you'll be proud to show off!
 													</p>
 													  
 												</div>
@@ -496,15 +408,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Hair Setting</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>It's time to get your hair setting goals in check! Our team of experienced professionals is here to help you create the perfect hairstyle that will make you look and feel your best. From a sleek bob to a voluminous blowout, we'll make sure you leave our salon looking and feeling fabulous.
 													</p>
 													  
 												</div>
@@ -542,15 +446,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Bridal Makeup </h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>Makeup is an essential part of any bride's look on her special day. Let our professional makeup artists help you create that perfect look. From natural to glam, we have got you covered! Let us help you make your special day even more special with our bridal makeup services.
 													</p>
 													  
 												</div>
@@ -571,15 +467,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Party Makeup  </h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>Celebrating beauty and glamour! Let's get the party started with some stunning makeup looks for all the gorgeous ladies out there. From natural looks to full glam, our makeup artists will help you find your perfect party look. Whether you're looking for something subtle and elegant or bold and dramatic, we have you covered!
 													</p>
 													  
 												</div>
@@ -601,15 +489,7 @@
 													<h3 class="font-26 font-weight-400">Hair Style
 													</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>Makeup is an art, and these ladies are true masters! From soft and subtle to bold and beautiful, they can create any hairstyle with precision and finesse. Each look is crafted with style and skill, making them the perfect choice for the perfect hairstyle.
 													</p>
 													  
 												</div>
@@ -650,15 +530,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Upper Lip</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>It's time to take care of myself! I treated myself to a face waxing session today and I'm already feeling the difference. My upper lip is smooth and free of unwanted hairs. Taking time for self-care is always a good idea and this step is a great way to start my journey to feeling my best.
 													</p>
 													  
 												</div>
@@ -679,15 +551,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Chin</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>I'm feeling so smooth after my face wax chin! This professional treatment has really given my skin a fresh and rejuvenated look. It's an easy and effective way to get rid of unwanted facial hair and I'm definitely recommending it to anyone looking for a simple way to feel beautiful and confident.
 													</p>
 													  
 												</div>
@@ -708,15 +572,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Side Locks</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>"Add a touch of sophistication to your look with side locks! Perfect for elevating any outfit, these locks are a great way to make a statement and show off your style.
 													</p>
 													  
 												</div>
@@ -737,15 +593,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Lower Lips</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>I'm so pleased with the results of my face wax treatment! My lower lips now look smooth and silky, and I'm confident that my overall look is improved.
 													</p>
 													  
 												</div>
@@ -766,15 +614,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Full Face</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>Having a fresh start to my week with a full face wax! Taking care of my skin is essential, and this is the perfect way to pamper myself and prepare for the upcoming days. Ready to greet the world with a soft, smooth, and refreshed face!
 													</p>													  
 												</div>
 											</div>
@@ -812,15 +652,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Manicure with Scrub & Pack</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>My hands and feet are ready for a self-care session! Just treated myself to a pedicure and manicure that includes a scrub and pack. It's always important to take time for yourself and give your hands and feet the pampering they deserve.
 													</p>
 													  
 												</div>
@@ -841,15 +673,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Body Care </h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>Nailed it! Just finished up with a luxurious pedicure and manicure session - treating my body to the care it deserves. Taking care of oneself is essential to feeling and looking one's best!
 													</p>
 													  
 												</div>
@@ -870,15 +694,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Lotus Crystal</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>Treat your hands and feet to the royal treatment with Lotus Crystal's luxurious pedicure and manicure! Our professional spa environment offers a wide range of services to make sure your hands and feet look and feel their best. Come in and pamper yourself with a relaxing and rejuvenating experience that will leave you feeling refreshed and beautiful.
 													</p>
 													  
 												</div>
@@ -899,15 +715,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Pedicure with Scrub & Pack</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>Indulge in a luxurious pampering session with a pedicure and manicure! Get your hands and feet ready for the season with our gentle scrub and pack. Our experienced professionals will provide you with the ultimate spa-like experience that will leave you feeling relaxed and refreshed.
 													</p>
 													  
 												</div>
@@ -928,15 +736,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Ice Cream</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>My hands and feet are ready for the delightful treat that is a pedicure and manicure ice cream! This unique combination of spa-style treatments and dessert is the perfect way to pamper and indulge with a luxurious experience. The pedicure and manicure ice cream is sure to provide an unforgettable experience of relaxation and deliciousness that will leave your hands and feet feeling refreshed and rejuvenated.
 													</p>
 													  
 												</div>
@@ -957,15 +757,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Lotus Crystal Spa</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>Let your hands and feet feel the luxury of a pedicure and manicure at Lotus Crystal Spa! Our professional team of experts provide a unique experience that will make you look and feel your best. Come in and enjoy a relaxing, pampering session that will leave you feeling refreshed and rejuvenated!
 													</p>
 													  
 												</div>
@@ -1006,15 +798,7 @@
 													<h3 class="font-26 font-weight-400">Lotus Professional Clean up
 													</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>Clean up the day with Lotus Professional! Feel the confidence of having a clean, refreshed face in just one step. With the help of Lotus Professional's unique range of products, you can transform your look and feel your best. Get ready to face the world with a radiant glow and renewed confidence.
 													</p>
 													  
 												</div>
@@ -1035,15 +819,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Lotus Gold Sheen Facial with De-Tan</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>As the summer season approaches, it's important to take extra care of your skin and protect it from the harsh sun rays. The perfect solution is to indulge in a Lotus Gold Sheen Facial with De-Tan Tone! This professional facial from Lotus is designed to nourish and hydrate your skin, while also providing a de-tanning treatment to remove any dullness or dark spots. Let's take care of our skin and get shining with Lotus' Gold Sheen Facial with De-Tan Tone!
 													</p>
 													  
 												</div>
@@ -1064,15 +840,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Basic Facial with Massage</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>It's time to pamper yourself! Treat yourself to a luxurious basic facial with massage and relax while the expert spa staff provides a much needed refresher for your skin. Embrace the feeling of rejuvenation and relaxation that comes with this indulgent experience and show your face the love it deserves.
 													</p>
 													  
 												</div>
@@ -1093,15 +861,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Facial with Rubber Mask</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>The ladies at our spa sure don't believe that! We've brought in the newest trend in facial treatments - the Rubber Mask Facial! Our Rubber Mask Facial is an innovative way to deeply nourish and hydrate your skin while providing a relaxing and enjoyable experience. The unique combination of powerful active ingredients and a rubberized mask help to create an intense and indulgent facial that will leave your skin feeling refreshed, rejuvenated and glowing!
 													</p>
 													  
 												</div>
@@ -1122,15 +882,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Aroma Magic( Gold , Diamond )</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>The skin of all ladies deserve to be pampered with nothing less than the best. Our Aroma Magic Gold and Diamond range provides you with the perfect blend of natural ingredients to nourish and revitalize your skin. Pamper yourself with our luxurious range and get the youthful and glowing skin you deserve!
 													</p>
 													  
 												</div>
@@ -1152,15 +904,7 @@
 													<h3 class="font-26 font-weight-400">Skin Lighting & Anti Pigmentation
 													</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>The glow on these ladies’ faces is undeniable! With our Skin Lighting & Anti Pigmentation treatment, their skin is brighter, smoother, and more even toned. Our unique formula provides powerful results for a brighter complexion, and we’re proud to see the difference it makes.
 													</p>
 													  
 												</div>
@@ -1276,15 +1020,7 @@
 													<h3 class="font-26 font-weight-400">Cutting
 													</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>It's time for a fresh cut! 💈 Enjoying a much needed visit to the barbershop to get my hair cut and styled. 💇‍♂️ Taking a step towards re-energizing my look and feeling my best!
 													</p>
 													  
 												</div>
@@ -1305,15 +1041,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Saving </h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>What an impactful transformation!  After a few hours of hard work and dedication, this client is ready to show off his new look.  With the help of our amazing team of professionals, this gent's hair has been completely changed! Check out the before-and-after to see how our team's expertise has given this client a completely new look.
 													</p>
 													  
 												</div>
@@ -1334,15 +1062,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Keratin</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>It's time to show off your healthiest and strongest hair yet! Our keratin treatment is the perfect solution for all gents looking to take their hair game to the next level. Our keratin treatment will help to protect your hair from everyday damage, while leaving your locks feeling strong, smooth, and looking shiny and healthy.
 													</p>
 													  
 												</div>
@@ -1363,15 +1083,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Hair Spa</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>It's the perfect time to pamper your hair!  A luxurious hair spa at Hair Gents is the best way to nourish and revive your hair. Our team of professional stylists will provide you with a relaxing experience to leave your hair looking and feeling its best. Visit us for a complete hair makeover and enjoy the ultimate hair spa experience!
 													</p>
 													  
 												</div>
@@ -1413,15 +1125,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Eye Brows </h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>"It's all about how you frame your face! Get creative with your eye brows and give yourself a professional look with our range of face gents eye brow products.
 													</p>
 													  
 												</div>
@@ -1442,15 +1146,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Facial</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>"A simple yet effective way to boost your self-care routine is to try out a face gent facial! Taking the time to focus on your skin and treat yourself to a little pampering can make all the difference.
 													</p>
 													  
 												</div>
@@ -1472,15 +1168,7 @@
 													<h3 class="font-26 font-weight-400">Bleach
 													</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>"Bringing out the best in you is our top priority! Our special 'Face Gents Bleach' is designed to make your skin glow and help bring out its natural beauty. Get ready to show off your best self!
 													</p>
 													  
 												</div>
@@ -1501,15 +1189,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Tan</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>Focused and determined, these two gents are ready to take on the world. Tan is the new black and these two are making a statement with their style. With their impeccable fashion sense and confidence, they'll be sure to turn heads and make an impact wherever they go.
 													</p>
 													  
 												</div>
@@ -1530,15 +1210,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">O3+</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>Now it's time to let your skin shine with O3+ and Face Gents! This luxurious skincare brand is perfect for keeping your skin looking healthy and glowing all day long. From their deeply nourishing face washes to their refreshing face masks, O3+ and Face Gents have everything you need for a well-groomed look. Not only does it give you a beautiful complexion, but also brings out the best in you. So, go ahead and treat yourself to some professional-level skincare with O3+ and Face Gents!
 													</p>
 													  
 												</div>
@@ -1559,15 +1231,7 @@
 												<div class="wt-tilte">
 													<h3 class="font-26 font-weight-400">Facial Lotus</h3>
 													<h4 class="site-text-primary"> </h4>
-													<p>Lorem Ipsum is simply dummy text of the printing and
-														typesetting industry.
-														Lorem Ipsum has been the industry's standard dummy
-														text ever since the 1500s,
-														when an unknown printer took a galley of type and
-														scrambled it to make a type specimen book.
-														remaining essentially unchanged. It was popularised
-														in the with theLorem Ipsum is simply dummy
-														text of the printing and eentially unchanged.
+													<p>It's time to take your grooming routine to the next level with  Facial Lotus! Enjoy a relaxing facial massage with the lotus-shaped head of this innovative device, perfect for unclogging pores and releasing tension in the face. Pamper yourself with this luxurious device and leave your skin feeling refreshed and invigorated.
 													</p>
 													  
 												</div>
