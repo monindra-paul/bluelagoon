@@ -176,7 +176,7 @@
                 
                 	<!-- TITLE START -->
                     <div class="section-head text-center">
-                        <h3 class="text-uppercase">Our Client</h3>
+                        <h3 class="text-uppercase">Product Used</h3>
                         <div class="wt-separator-outer">
                             <div class="wt-separator style-icon">
                                 <i class="fa fa-leaf text-black"></i>
@@ -184,7 +184,7 @@
                                 <span class="separator-right site-bg-primary"></span>
                             </div>                            
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                        <p>Product We Used for Our Valueable Customers.</p>
                     </div>
                     <!-- TITLE END -->
                     
@@ -196,7 +196,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{asset('asset/images/client-logo/logo1.png')}}" alt=""></a>
+                                        <a href="#"><img src="{{asset('asset/images/bluelagoon/p1.png')}}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -204,7 +204,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{asset('asset/images/client-logo/logo2.png')}}" alt=""></a>
+                                        <a href="#"><img src="{{asset('asset/images/bluelagoon/p5.png')}}" alt="s"></a>
                                     </div>
                                 </div>
                             </div>
@@ -212,7 +212,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{asset('asset/images/client-logo/logo3.png')}}" alt=""></a>
+                                        <a href="#"><img src="{{asset('asset/images/bluelagoon/p6.png')}}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -220,7 +220,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{asset('asset/images/client-logo/logo4.png')}}" alt=""></a>
+                                        <a href="#"><img src="{{asset('asset/images/bluelagoon/p7.png')}}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -228,7 +228,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{asset('asset/images/client-logo/logo5.png')}}" alt=""></a>
+                                        <a href="#"><img src="{{asset('asset/images/bluelagoon/p4.png')}}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -236,7 +236,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{asset('asset/images/client-logo/logo6.png')}}" alt=""></a>
+                                        <a href="#"><img src="{{asset('asset/images/bluelagoon/p12.png')}}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -244,7 +244,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{asset('asset/images/client-logo/logo1.png')}}" alt=""></a>
+                                        <a href="#"><img src="{{asset('asset/images/bluelagoon/p10.png')}}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -252,7 +252,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{asset('asset/images/client-logo/logo2.png')}}" alt=""></a>
+                                        <a href="#"><img src="{{asset('asset/images/bluelagoon/p11.png')}}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -260,7 +260,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{asset('asset/images/client-logo/logo3.png')}}" alt=""></a>
+                                        <a href="#"><img src="{{asset('asset/images/bluelagoon/p6.png')}}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -268,7 +268,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{asset('asset/images/client-logo/logo4.png')}}" alt=""></a>
+                                        <a href="#"><img src="{{asset('asset/images/bluelagoon/p18.png')}}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -276,7 +276,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{asset('asset/images/client-logo/logo5.png')}}" alt=""></a>
+                                        <a href="#"><img src="{{asset('asset/images/bluelagoon/p15.png')}}" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -284,7 +284,7 @@
                             <div class="item">
                                 <div class="ow-client-logo">
                                     <div class="client-logo wt-img-effect on-color">
-                                        <a href="contact-1.html"><img src="{{asset('asset/images/client-logo/logo6.png')}}" alt=""></a>
+                                        <a href="#"><img src="{{asset('asset/images/bluelagoon/p3.png')}}" alt=""></a>
                                     </div>
                                 </div>
                             </div>                        

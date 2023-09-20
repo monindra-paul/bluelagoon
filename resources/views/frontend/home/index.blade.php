@@ -451,9 +451,9 @@
 						<span class="separator-right site-bg-primary"></span>
 					</div>
 				</div>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a
+				{{-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a
 					porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per
-					conubia nostra, per inceptos himenaeos.</p>
+					conubia nostra, per inceptos himenaeos.</p> --}}
 			</div>
 			<!-- TITLE END-->
 
