@@ -33,11 +33,11 @@
                     <div class="filter-wrap p-tb15">
                         <ul class="masonry-filter link-style  text-uppercase">
                             <li class="active"><a data-filter="*" href="#">All</a></li>
-                            <li><a data-filter=".cat-1" href="#">Spa</a></li>
+                            <li><a data-filter=".cat-5" href="#">Hair Cutting</a></li>
                             <li><a data-filter=".cat-2" href="#">Hair Makeup</a></li>
                             <li><a data-filter=".cat-3" href="#">Waxing</a></li>
-                            <li><a data-filter=".cat-4" href="#">Facial</a></li>
-                            <li><a data-filter=".cat-5" href="#">Massage</a></li>
+                            <li><a data-filter=".cat-4" href="#">Face Makeup</a></li>
+                            <li><a data-filter=".cat-1" href="#">Pedicure & Manicure</a></li>
                         </ul>
                     </div>
                     <!-- PAGINATION TOP END -->
@@ -51,12 +51,29 @@
                             <div class="wt-gallery-bx">
                                 <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
                                     <a href="services-detail.html">
-                                        <img src="{{asset('asset/images/latest-projects/pic1.jpg')}}"  alt="">
+                                        <img src="{{asset('asset/images/bluelagoon/gallery/prdicure.webp')}}"  alt="">
                                     </a>
                                     <div class="overlay-bx">
                                         <div class="overlay-icon">
                                              
-                                            <a href="{{asset('asset/images/gallery/pic1.jpg')}}" class="mfp-link">
+                                            <a href="{{asset('asset/images/bluelagoon/gallery/prdicure.webp')}}" class="mfp-link">
+                                                <i class="fa fa-arrows-alt wt-icon-box-xs"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="masonry-item cat-1 col-lg-6 col-md-6 col-sm-6 col-xs-6 m-b30">
+                            <div class="wt-gallery-bx">
+                                <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
+                                    <a href="services-detail.html">
+                                        <img src="{{asset('asset/images/bluelagoon/gallery/menicure.webp')}}"  alt="">
+                                    </a>
+                                    <div class="overlay-bx">
+                                        <div class="overlay-icon">
+                                             
+                                            <a href="{{asset('asset/images/bluelagoon/gallery/menicure.webp')}}" class="mfp-link">
                                                 <i class="fa fa-arrows-alt wt-icon-box-xs"></i>
                                             </a>
                                         </div>
@@ -123,12 +140,63 @@
                             <div class="wt-gallery-bx">
                                 <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
                                     <a href="services-detail.html">
-                                        <img src="{{asset('asset/images/latest-projects/pic5.jpg')}}"  alt="">
+                                        <img src="{{asset('asset/images/bluelagoon/gallery/hair-cutting-gal.webp')}}"  alt="">
                                     </a>
                                     <div class="overlay-bx">
                                         <div class="overlay-icon">
                                              
-                                            <a href="{{asset('asset/images/gallery/pic5.jpg')}}" class="mfp-link">
+                                            <a href="{{asset('asset/images/bluelagoon/gallery/hair-cutting-gal.webp')}}" class="mfp-link">
+                                                <i class="fa fa-arrows-alt wt-icon-box-xs"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="masonry-item cat-5 col-lg-6 col-md-6 col-sm-6 col-xs-6 m-b30">
+                            <div class="wt-gallery-bx">
+                                <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
+                                    <a href="services-detail.html">
+                                        <img src="{{asset('asset/images/bluelagoon/gallery/hair-cutting-gal-2.webp')}}"  alt="">
+                                    </a>
+                                    <div class="overlay-bx">
+                                        <div class="overlay-icon">
+                                             
+                                            <a href="{{asset('asset/images/bluelagoon/gallery/hair-cutting-gal-2.webp')}}" class="mfp-link">
+                                                <i class="fa fa-arrows-alt wt-icon-box-xs"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="masonry-item cat-5 col-lg-6 col-md-6 col-sm-6 col-xs-6 m-b30">
+                            <div class="wt-gallery-bx">
+                                <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
+                                    <a href="services-detail.html">
+                                        <img src="{{asset('asset/images/bluelagoon/gallery/hair-cutting-gal-3.webp')}}"  alt="">
+                                    </a>
+                                    <div class="overlay-bx">
+                                        <div class="overlay-icon">
+                                             
+                                            <a href="{{asset('asset/images/bluelagoon/gallery/hair-cutting-gal-3.webp')}}" class="mfp-link">
+                                                <i class="fa fa-arrows-alt wt-icon-box-xs"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="masonry-item cat-5 col-lg-6 col-md-6 col-sm-6 col-xs-6 m-b30">
+                            <div class="wt-gallery-bx">
+                                <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
+                                    <a href="services-detail.html">
+                                        <img src="{{asset('asset/images/bluelagoon/gallery/hair-cutting-gal-4.webp')}}"  alt="">
+                                    </a>
+                                    <div class="overlay-bx">
+                                        <div class="overlay-icon">
+                                             
+                                            <a href="{{asset('asset/images/bluelagoon/gallery/hair-cutting-gal-4.webp')}}" class="mfp-link">
                                                 <i class="fa fa-arrows-alt wt-icon-box-xs"></i>
                                             </a>
                                         </div>
@@ -141,12 +209,12 @@
                             <div class="wt-gallery-bx">
                                 <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
                                     <a href="services-detail.html">
-                                        <img src="{{asset('asset/images/latest-projects/pic6.jpg')}}"  alt="">
+                                        <img src="{{asset('asset/images/bluelagoon/gallery/face-makeup-gal.webp')}}"  alt="">
                                     </a>
                                     <div class="overlay-bx">
                                         <div class="overlay-icon">
                                              
-                                            <a href="{{asset('asset/images/gallery/pic6.jpg')}}" class="mfp-link">
+                                            <a href="{{asset('asset/images/bluelagoon/gallery/face-makeup-gal.webp')}}" class="mfp-link">
                                                 <i class="fa fa-arrows-alt wt-icon-box-xs"></i>
                                             </a>
                                         </div>

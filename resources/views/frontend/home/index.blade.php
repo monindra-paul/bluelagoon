@@ -59,8 +59,7 @@
 								<!-- LAYER NR. 9 -->
 								<div class="tp-caption   tp-resizeme" id="slide-408-layer-2" data-x="['left','left','center','center']" data-hoffset="['0','50','0','0']" data-y="['top','top','top','top']" data-voffset="['0','430','460','290']" data-fontsize="['30','30','40','25']" data-lineheight="['40','40','50','30']" data-width="['none','100%','100%','100%']" data-height="none" data-whitespace="normal" data-type="text" data-basealign="slide" data-responsive_offset="on" data-frames='[{"delay":"+890","split":"chars","splitdelay":0.03,"speed":300,"frame":"0","from":"sX:2;sY:2;opacity:0;fb:5px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},
 					{"delay":"wait","speed":1000,"frame":"999","to":"opacity:0;fb:10px;","ease":"Power4.easeOut"}]' data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]" data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]" data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9; white-space: normal; font-size: 30px; line-height: 40px; font-weight: 300;
-					color: rgba(255, 255, 255, 1.00); display: block;font-family:Poppins;">General the
-									content of dummy text is nonsensical.</div>
+					color: rgba(255, 255, 255, 1.00); display: block;font-family:Poppins;">Where Beauty Meets Innovation: Your Modern Salon Experience</div>
 							</div>
 						</div>
 					</div>
@@ -86,13 +85,12 @@
 								<!-- LAYER NR. 13 -->
 								<div class="tp-caption   tp-resizeme" id="slide-409-layer-1" data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['0','0','230','110']" data-fontsize="['110','90','100','70']" data-lineheight="['100','90','100','70']" data-width="['none','none','697','399']" data-height="none" data-whitespace="['nowrap','nowrap','normal','normal']" data-type="text" data-basealign="slide" data-responsive_offset="on" data-frames='[{"delay":"+290","split":"chars","splitdelay":0.05,"speed":750,"frame":"0","from":"y:40px;sX:1.5;sY:1.5;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},
 					{"delay":"wait","speed":1000,"frame":"999","to":"sX:1;sY:1;opacity:0;fb:10px;","ease":"Power4.easeOut"}]' data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]" data-marginbottom="[30,20,30,30]" data-marginleft="[0,0,0,0]" data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,40,40]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,40,40]" style="z-index: 8; white-space: nowrap; font-size: 110px; line-height: 100px;
-					font-weight: 600; color: rgba(255, 255, 255, 1.00); display: inline-block;font-family:Poppins;letter-spacing:-5px;">Looking For a beauty </div>
+					font-weight: 600; color: rgba(255, 255, 255, 1.00); display: inline-block;font-family:Poppins;letter-spacing:-5px;">The Blue lagoon </div>
 
 								<!-- LAYER NR. 14 -->
 								<div class="tp-caption   tp-resizeme" id="slide-409-layer-2" data-x="['left','left','center','center']" data-hoffset="['0','50','0','0']" data-y="['top','top','top','top']" data-voffset="['0','430','460','290']" data-fontsize="['30','30','40','25']" data-lineheight="['40','40','50','30']" data-width="['none','100%','100%','100%']" data-height="none" data-whitespace="normal" data-type="text" data-basealign="slide" data-responsive_offset="on" data-frames='[{"delay":"+890","split":"chars","splitdelay":0.03,"speed":300,"frame":"0","from":"sX:2;sY:2;opacity:0;fb:5px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},
 					{"delay":"wait","speed":1000,"frame":"999","to":"opacity:0;fb:10px;","ease":"Power4.easeOut"}]' data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]" data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]" data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9; white-space: normal; font-size: 30px; line-height: 40px; font-weight: 300;
-					color: rgba(255, 255, 255, 1.00); display: block;font-family:Poppins;">One disadvantage
-									of Lorum Ipsum is that in Latin certain.</div>
+					color: rgba(255, 255, 255, 1.00); display: block;font-family:Poppins;">Relax, Refresh, and Rejuvenate - Your Modern Salon Escape Awaits</div>
 							</div>
 						</div>
 					</div>
@@ -201,7 +199,7 @@
 								</div>
 								<div class="icon-content">
 									<h4 class="wt-tilte text-uppercase">Makeup</h4>
-									<p>A wonderful serenity has taken possession of my entire soul.</p>
+									<p>Discover the Artistry of Makeup: Unleash Your Inner Beauty with Expert Tips and Product Recommendations!</p>
 								</div>
 							</a>
 						</div>
@@ -213,7 +211,7 @@
 								<div class="icon-content">
 									<h4 class="wt-tilte text-uppercase">Skin Treatment
 									</h4>
-									<p>A wonderful serenity has taken possession of my entire soul.</p>
+									<p>Revitalize Your Skin: Explore Proven Skin Treatment Solutions for a Radiant, Healthy Glow!</p>
 								</div>
 							</a>
 						</div>
@@ -224,7 +222,7 @@
 								</div>
 								<div class="icon-content">
 									<h4 class="wt-tilte text-uppercase">Effective Treatments</h4>
-									<p>A wonderful serenity has taken possession of my entire soul.</p>
+									<p>Experience Transformation: Explore Our Effective Treatment Options for Your Beauty and Wellness Needs!</p>
 								</div>
 							</a>
 						</div>
@@ -235,7 +233,7 @@
 							<div id="tab1" class="tab-pane in active">
 								<div class="wt-box">
 									<div class="wt-media site-text-primary m-b20 ">
-										<img src="{{asset('asset/images/circle-block/1.jpg')}}" class="radius-bx" alt="">
+										<img src="{{asset('asset/images/bluelagoon/makeup.webp')}}" class="radius-bx" alt="">
 									</div>
 								</div>
 							</div>
@@ -243,7 +241,7 @@
 							<div id="tab2" class="tab-pane">
 								<div class="wt-box">
 									<div class="wt-media site-text-primary m-b20">
-										<img src="{{asset('asset/images/circle-block/2.jpg')}}" class="radius-bx" alt="">
+										<img src="{{asset('asset/images/bluelagoon/skin-treatment.webp')}}" class="radius-bx" alt="">
 									</div>
 								</div>
 							</div>
@@ -251,7 +249,7 @@
 							<div id="tab3" class="tab-pane">
 								<div class="wt-box">
 									<div class="wt-media site-text-primary m-b20">
-										<img src="{{asset('asset/images/circle-block/3.jpg')}}" class="radius-bx" alt="">
+										<img src="{{asset('asset/images/bluelagoon/effective-treatment.webp')}}" class="radius-bx" alt="">
 									</div>
 								</div>
 							</div>
@@ -259,7 +257,7 @@
 							<div id="tab4" class="tab-pane">
 								<div class="wt-box">
 									<div class="wt-media site-text-primary m-b20">
-										<img src="{{asset('asset/images/circle-block/4.jpg')}}" class="radius-bx" alt="">
+										<img src="{{asset('asset/images/bluelagoon/party-makeup.webp')}}" class="radius-bx" alt="">
 									</div>
 								</div>
 							</div>
@@ -267,7 +265,7 @@
 							<div id="tab5" class="tab-pane">
 								<div class="wt-box">
 									<div class="wt-media site-text-primary m-b20">
-										<img src="{{asset('asset/images/circle-block/5.jpg')}}" class="radius-bx" alt="">
+										<img src="{{asset('asset/images/bluelagoon/bridal-makeup.webp')}}" class="radius-bx" alt="">
 									</div>
 								</div>
 							</div>
@@ -275,7 +273,7 @@
 							<div id="tab6" class="tab-pane">
 								<div class="wt-box">
 									<div class="wt-media site-text-primary m-b20">
-										<img src="{{asset('asset/images/circle-block/6.jpg')}}" class="radius-bx" alt="">
+										<img src="{{asset('asset/images/bluelagoon/hair-spa.webp')}}" class="radius-bx" alt="">
 									</div>
 								</div>
 							</div>
@@ -291,7 +289,7 @@
 								</div>
 								<div class="icon-content">
 									<h4 class="wt-tilte text-uppercase">Party Makeup</h4>
-									<p>A wonderful serenity has taken possession of my entire soul.</p>
+									<p>Party-Ready Perfection: Elevate Your Look with Stunning Party Makeup Ideas and Tips!</p>
 								</div>
 							</a>
 						</div>
@@ -302,7 +300,7 @@
 								</div>
 								<div class="icon-content">
 									<h4 class="wt-tilte text-uppercase">Bridal Makeup </h4>
-									<p>A wonderful serenity has taken possession of my entire.</p>
+									<p>Bridal Elegance Unveiled: Achieve Timeless Beauty with Expert Bridal Makeup Services.</p>
 								</div>
 							</a>
 						</div>
@@ -313,7 +311,7 @@
 								</div>
 								<div class="icon-content">
 									<h4 class="wt-tilte text-uppercase"> Hair Spa </h4>
-									<p>A wonderful serenity has taken possession of my entire soul.</p>
+									<p>Indulge in Luxurious Hair Spa: Nourish, Repair, and Shine for Gorgeous Tresses!</p>
 								</div>
 							</a>
 						</div>
@@ -477,13 +475,13 @@
 							<div class="wt-thum-bx wt-img-effect wt-img-overlay7">
 
 								<a href="services-detail.html">
-									<img src="{{asset('asset/images/gallery/portrait/pic5.jpg')}}" alt="">
+									<img src="{{asset('asset/images/bluelagoon/gallery/hair-cutting.webp')}}" alt="">
 								</a>
 
 								<div class="overlay-bx">
 									<div class="overlay-icon">
 										
-										<a href="{{asset('asset/images/gallery/portrait/pic5.jpg')}}" class="mfp-link">
+										<a href="{{asset('asset/images/bluelagoon/gallery/hair-cutting.webp')}}" class="mfp-link">
 											<i class="fa fa-picture-o wt-icon-box-xs"></i>
 										</a>
 									</div>
@@ -498,13 +496,13 @@
 							<div class="wt-thum-bx wt-img-effect wt-img-overlay7">
 
 								<a href="services-detail.html">
-									<img src="{{asset('asset/images/gallery/portrait-half/pic1.jpg')}}" alt="">
+									<img src="{{asset('asset/images/bluelagoon/gallery/gal-3.webp')}}" alt="">
 								</a>
 
 								<div class="overlay-bx">
 									<div class="overlay-icon">
 										
-										<a href="{{asset('asset/images/gallery/portrait-half/pic1.jpg')}}" class="mfp-link">
+										<a href="{{asset('asset/images/bluelagoon/gallery/gal-3.webp')}}" class="mfp-link">
 											<i class="fa fa-picture-o wt-icon-box-xs"></i>
 										</a>
 									</div>
@@ -519,13 +517,13 @@
 							<div class="wt-thum-bx wt-img-effect wt-img-overlay7">
 
 								<a href="services-detail.html">
-									<img src="{{asset('asset/images/gallery/portrait/pic6.jpg')}}" alt="">
+									<img src="{{asset('asset/images/bluelagoon/gallery/gal-2.webp')}}" alt="">
 								</a>
 
 								<div class="overlay-bx">
 									<div class="overlay-icon">
 										
-										<a href="{{asset('asset/images/gallery/portrait/pic6.jpg')}}" class="mfp-link">
+										<a href="{{asset('asset/images/bluelagoon/gallery/gal-2.webp')}}" class="mfp-link">
 											<i class="fa fa-picture-o wt-icon-box-xs"></i>
 										</a>
 									</div>
@@ -540,13 +538,13 @@
 							<div class="wt-thum-bx wt-img-effect wt-img-overlay7">
 
 								<a href="services-detail.html">
-									<img src="images/gallery/portrait-half/pic2.jpg" alt="">
+									<img src="{{asset('asset/images/bluelagoon/gallery/gal-4.webp')}}" alt="">
 								</a>
 
 								<div class="overlay-bx">
 									<div class="overlay-icon">
 										
-										<a href="{{asset('asset/images/gallery/portrait-half/pic2.jpg')}}" class="mfp-link">
+										<a href="{{asset('asset/images/bluelagoon/gallery/gal-4.webp')}}" class="mfp-link">
 											<i class="fa fa-picture-o wt-icon-box-xs"></i>
 										</a>
 									</div>
@@ -556,26 +554,7 @@
 						</div>
 					</div>
 
-					<div class="masonry-item cat-filter-5 col-lg-4 col-md-4 col-sm-6 col-xs-6">
-						<div class="wt-gallery-bx">
-							<div class="wt-thum-bx wt-img-effect wt-img-overlay7">
-
-								<a href="services-detail.html">
-									<img src="{{asset('asset/images/gallery/portrait-half/pic3.jpg')}}" alt="">
-								</a>
-
-								<div class="overlay-bx">
-									<div class="overlay-icon">
-										
-										<a href="{{asset('asset/images/gallery/portrait-half/pic3.jpg')}}" class="mfp-link">
-											<i class="fa fa-picture-o wt-icon-box-xs"></i>
-										</a>
-									</div>
-								</div>
-
-							</div>
-						</div>
-					</div>
+					
 
 					
 				</div>

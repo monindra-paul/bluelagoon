@@ -60,7 +60,7 @@
                                             </div>
                                             <div class="icon-content">
                                                 <h5 class="wt-tilte text-uppercase m-b0">Waxing</h5>
-                                                <p>Lorem ipsum dolor sit piscing sed diam nonmy end .</p>
+                                                <p>Silky Smooth Skin Awaits: Experience Painless and Professional Waxing Services</p>
                                             </div>
                                         </div>
                                     </div>
@@ -71,7 +71,7 @@
                                             </div>
                                             <div class="icon-content">
                                                 <h5 class="wt-tilte text-uppercase m-b0">Hair Makeup</h5>
-                                                <p>Lorem ipsum dolor sit piscing sed diam nonmy end .</p>
+                                                <p>Elevate Your Look with Hair Makeup: Transform Your Tresses into a Work of Art!</p>
                                             </div>
                                         </div>
                                     </div>
@@ -82,7 +82,7 @@
                                             </div>
                                             <div class="icon-content">
                                                 <h5 class="wt-tilte text-uppercase m-b0 ">Facial</h5>
-                                                <p>Lorem ipsum dolor sit piscing sed diam nonmy end .</p>
+                                                <p>Rejuvenate Your Skin with Our Pampering Facial Treatments: Radiant Skin Awaits!</p>
                                             </div>
                                         </div>
                                     </div>
@@ -93,7 +93,7 @@
                                             </div>
                                             <div class="icon-content">
                                                 <h5 class="wt-tilte text-uppercase m-b0">Massage</h5>
-                                                <p>Lorem ipsum dolor sit piscing sed diam nonmy end .</p>
+                                                <p>Relax, Recharge, and Rejuvenate with Our Blissful Massage Therapy Services.</p>
                                             </div>
                                         </div>
                                     </div>
